@@ -4,4 +4,5 @@
 ### This repository includes all the tasks I have performed during my internship as a Data Science and Business Analytics Intern at The Sparks Foundation Grip April 2021 Batch.
 
 ## Tasks Performed:
-- Exploratory Data Analysis of SampleSuperstore dataset
+- Task 3- Exploratory Data Analysis of SampleSuperstore dataset
+- Task 1- Prediction Using Supervised Machine Learning
